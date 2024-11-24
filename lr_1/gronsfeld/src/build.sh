@@ -1,0 +1,1 @@
+clang++ -std=c++20 -o gronsfeld main.cpp InputHandler.cpp Gronsfeld.cpp

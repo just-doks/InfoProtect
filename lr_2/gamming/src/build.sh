@@ -1,0 +1,1 @@
+clang++ -std=c++20 -o ../gamming main.cpp InputHandler.cpp Gamming.cpp
